@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>DOOMZ MAZE</title>
+</head>
+<body>
+    <audio id="MF1" src="/assets/audio/All Caps.mp3" loop></audio>
+    <audio id="MF2" src="/assets/audio/Figaro.mp3" loop></audio>
+    <audio id="MF3" src="/assets/audio/Meat Grinder.mp3" loop></audio>
+    <audio id="MF4" src="/assets/audio/Doomsday.mp3" loop></audio>
+    <audio id="MF5" src="/assets/audio/One Beer.mp3" loop></audio>
+    <audio id="MF6" src="/assets/audio/Rapp Snitch Knishes.mp3" loop></audio>
+
+    
+    <img id="texture" src="assets/wall.png" style="display: none">
+    <img id="background" src="assets/background.png" style="display: none">
+    <img id="floor-texture" src="assets/floor.png" style="display: none;">
+
+    <canvas id="canvas"><script src="doom.js"></script></canvas>
+    
+    <div>
+        <p>(W)-Forawrd / (S)-Backwards / (A)-Left / (D)-Right </p>
+        <button onclick="play()" type="button" id="demo">Play</button>
+    </div>
+</body>
+</html>

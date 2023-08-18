@@ -46,10 +46,10 @@ Welcome to the MF DOOMZ Maze Game! This is a browser-based game created using Ja
 
 - **HTML:** The game interface is built using HTML.
 
-This game was made with the help of a raycasting tutorial by a Github user **vinibiavatti1**, link to the tutorial can be found here: [RayCastingTutorial](https://github.com/vinibiavatti1/RayCastingTutorial/wiki)
-
 - **MF DOOM Music:** Tracks from MF Doom's discography are integrated into the game using HTML5 audio elements.
 
 ## Future Enhancements
 
 - **Level Design:** Create more complex and challenging maze layouts to keep players engaged.
+
+This game was made with the help of a raycasting tutorial by a Github user **vinibiavatti1**, link to the tutorial can be found here: [RayCastingTutorial](https://github.com/vinibiavatti1/RayCastingTutorial/wiki)
